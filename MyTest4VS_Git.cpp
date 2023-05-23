@@ -2,6 +2,6 @@
 
 int main() {
 	std::cout<<"Hello  ";
-	std::cout << "Worldkkk";//lll
+	std::cout << "World";//lll
 	system("pause");
 }
