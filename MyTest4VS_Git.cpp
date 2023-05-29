@@ -2,7 +2,8 @@
 
 int main() {
 	std::cout<<"C2";
-	//ÔõÃ´»ØÊÂÄØ£¿
+	//Ã”ÃµÃƒÂ´Â»Ã˜ÃŠÃ‚Ã„Ã˜Â£Â¿
 	system("pause");
 	//Test Merge
+	//Test Pull
 }
