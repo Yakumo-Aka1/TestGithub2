@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-	std::cout<<"Helo l";
+	std::cout<<"C3";
 	//ÔõÃ´»ØÊÂÄØ£¿
 	system("pause");
 	//Test Merge
